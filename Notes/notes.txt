@@ -307,7 +307,4 @@ Other:
 - Wikipedia (overview pages on each logic type)
 - Springer and Oxford papers on non-classical logics
 - Graham Priest papers on dialetheism
-
-***
-
-If you want, I can extend this further with formal proof systems (sequent calculi or natural deduction) or build explicit truth tables for a specific paraconsistent system like LP.
+for a specific paraconsistent system like LP.
